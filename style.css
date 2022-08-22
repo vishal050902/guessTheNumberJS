@@ -1,0 +1,42 @@
+/**/
+.col-lg-12
+{
+	text-align: center; 
+	margin: 0 auto;
+}
+.col-lg-12 h2
+{
+	font-size: 4em;
+	font-weight: all;
+	margin: 5% auto 1.5% auto;
+	color: black;
+}
+.col-lg-12 h4
+{
+	color: black;
+	margin: 0 auto 4% auto;
+}
+.col-lg-12 label
+{
+	font-size: 2em;
+	margin: 0 auto 3% auto;
+}
+.col-lg-12 input
+{
+	margin: 0 auto 3% auto;
+}
+.col-lg-12 button
+{
+	margin: 0 auto 3% auto;
+}
+.col-lg-12 h3
+{
+	color: black;
+}
+/**/
+
+.container-fluid
+{
+	background: radial-gradient(white,black);
+	height: 100vh;
+}
